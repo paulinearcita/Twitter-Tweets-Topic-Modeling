@@ -22,4 +22,5 @@ Here is the list of packages:
 * NLTK - for text processing
 * Pandas - for importing csv dataset
 * Gensim - for LDA
+* sklearn
 
