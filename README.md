@@ -9,7 +9,8 @@ This is a continued work of the sentiment analysis that my group (Hazel Gabutan,
 
 ## Goal
 * Generate topics from the tweets in the dataset. 
-* Make word cloud and/or LDA Visualization (pyLDAvis) based on frequency of texts.
+* LDA Visualization (pyLDAvis) based on frequency of texts.
+* Create word cloud based on importance and frequency of texts.
 * Generate a graph and table of perplexity vs. number of topics.
 
 ## Dataset
@@ -22,5 +23,7 @@ Here is the list of packages:
 * NLTK - for text processing
 * Pandas - for importing csv dataset
 * Gensim - for LDA
-* sklearn
-
+* Pickle
+* Sklearn
+* Wordcloud
+* Matplotlib
