@@ -27,3 +27,6 @@ Here is the list of packages:
 * Sklearn
 * Wordcloud
 * Matplotlib
+
+## Take Note
+* Consider opening Twitter Tweets Topic Modeling Jupyter Notebook in Jupyter Notebook Viewer: https://nbviewer.jupyter.org/github/paulinearcita/Twitter-Tweets-Topic-Modeling/blob/master/Twitter%20Tweets%20Topic%20Modeling.ipynb#topic=0&lambda=1&term=
